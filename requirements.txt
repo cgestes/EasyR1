@@ -4,10 +4,10 @@ datasets
 flash-attn>=2.4.3
 liger-kernel
 mathruler
-numpy
+numpy>=2.2.0
 omegaconf
-pandas
-peft
+pandas>=2.0.0
+peft>=0.15.0
 pillow
 pyarrow>=15.0.0
 pylatexenc
