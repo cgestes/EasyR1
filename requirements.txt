@@ -2,7 +2,7 @@ accelerate>=1.8.1
 codetiming
 datasets>=1.6.2
 flash-attn>=2.4.3
-liger-kernel>=0.7.0
+liger-kernel>=0.6.0
 mathruler
 numpy>=2.2.0
 omegaconf
