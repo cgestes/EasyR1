@@ -6,7 +6,7 @@ liger-kernel>=0.6.0
 mathruler
 numpy>=2.2.0
 omegaconf
-pandas>=2.2.0
+pandas==2.3.3
 peft>=0.15.0
 pillow
 pyarrow>=15.0.0
