@@ -1,6 +1,6 @@
 accelerate>=1.8.1
 codetiming
-datasets>=1.6.2
+datasets>=4.0.0
 flash-attn==2.8.3
 liger-kernel>=0.6.0
 mathruler
