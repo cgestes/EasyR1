@@ -16,5 +16,5 @@ ray[default]>=2.48.0
 tensordict>=0.7.0
 torchdata>=0.9.0
 transformers>=4.54.0,<=4.57.0
-vllm==0.10.2
+git+https://github.com/vllm-project/vllm
 wandb
